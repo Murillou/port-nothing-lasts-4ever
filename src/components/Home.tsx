@@ -1,7 +1,7 @@
 import styles from './Home.module.css';
-import logo from '../../public/logo.png';
-import logo2 from '../../public/testando-1.jpg';
-import logo3 from '../../public/testando-2.jpg';
+import logo from '../assets/logo.png';
+import logo2 from '../assets/testando-1.jpg';
+import logo3 from '../assets/testando-2.jpg';
 import { useEffect, useState } from 'react';
 
 const images = [logo, logo2, logo3];
