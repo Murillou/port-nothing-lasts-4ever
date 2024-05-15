@@ -10,3 +10,9 @@
 .lasts {
   color: #000;
 }
+
+@media (max-width: 600px) {
+  .nameLogo {
+    font-size: 25px;
+  }
+}
